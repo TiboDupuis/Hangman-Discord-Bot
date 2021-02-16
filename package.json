@@ -1,7 +1,6 @@
 {
   "name": "discordbot",
   "version": "1.0.0",
-  "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,16 @@
   "author": "Your Nan",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
-  }
+    "discord.js": "^11.6.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiboDupuis/Hangman-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TiboDupuis/Hangman-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/TiboDupuis/Hangman-Discord-Bot#readme",
+  "description": ""
 }
