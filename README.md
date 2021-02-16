@@ -36,9 +36,10 @@ To add the bot, your account needs "Manage Server" permissions.
 
 
 ## USAGE:
-Available commands:
-!word [WORD] --> This will set a word of your choosing. Replace [WORD] with the word of your choosing to set the word. 
-!reset --> This will reset the whole game
-!letter [LETTER] --> This is used to guess a letter. Replace [LETTER] with a letter of your choosing to suggest a letter.
-!random --> This will pick a random English word out of a 58110 words long list (corncob list).
-!guess [WORD] --> This is used to guess a word. Replace [WORD] with a word of your choosing to try and guess a word.
+
+### Available commands:
+#### !word [WORD] --> This will set a word of your choosing. Replace [WORD] with the word of your choosing to set the word. 
+#### !reset --> This will reset the whole game
+#### !letter [LETTER] --> This is used to guess a letter. Replace [LETTER] with a letter of your choosing to suggest a letter.
+#### !random --> This will pick a random English word out of a 58110 words long list (corncob list).
+#### !guess [WORD] --> This is used to guess a word. Replace [WORD] with a word of your choosing to try and guess a word.
