@@ -1,11 +1,11 @@
 # Hangman-Discord-Bot
 
-INTRODUCTION: 
+##INTRODUCTION: 
 Hangman is a paper and pencil guessing game for two or more players. 
 One player thinks of a word and the other(s) tries to guess it by suggesting letters within a certain number of guesses (8).
 
 
-SETUP:
+##SETUP:
 --Downloading this bot--
 You can clone this github page or download it as a .zip file and then extract it.
 
@@ -35,7 +35,7 @@ To add the bot, your account needs "Manage Server" permissions.
 4) Launch the bot using 'node index.js', if everything went right, `[YOUR BOT NAME] is online!` should appear in the console.
 
 
-USAGE:
+##USAGE:
 Available commands:
 !word [WORD] --> This will set a word of your choosing. Replace [WORD] with the word of your choosing to set the word. 
 !reset --> This will reset the whole game
